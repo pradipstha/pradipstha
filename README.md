@@ -9,7 +9,7 @@ About me:
 - 🤳 Connect with me: 
 <a href="https://github.com/pradipstha"> 
     <img align="left" alt="JoshMadakor | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  <a href="https://linkedin.com/pstha"> 
+  <a href="https://linkedin.com/in/pradipsthas"> 
     <img align="left" alt="JoshMadakor | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </br>
   </br>
