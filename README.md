@@ -2,8 +2,8 @@
 <h3 align="center"> Uncovering Impactful Insights Through Data-Driven Sustainability Solutions</h3>
 
 About me:
-- 💼 Academics: Geographical Information System and Remote Sensing of Earth and Environment
-- ❤️ I love exploring data, learning patterns and visualizing results 
+- 💼 Geographical Information System, Remote Sensing of Earth and Environment, Hydrological modeling, Cartography
+- ❤️ Exploring data, generating patterns, clustering, and visual insight  
 - 🌱 I’m currently learning machine learning modules for image segmentation and integrating spatial analysis with programming  
 - ⚡ Fun fact: I am a novice photographer and a foodie !!!
 - 🤳 Connect with me: 
