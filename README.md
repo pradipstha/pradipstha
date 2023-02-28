@@ -5,7 +5,7 @@ About me:
 - 💼 Geographical Information System and Remote Sensing of Earth and Environment
 - ❤️ I love exploring data, learning patterns and visualizing results 
 - 🌱 I’m currently learning machine learning modeules for image segmentation and classification 
-- ⚡ Fun fact: I am a novice photographer
+- ⚡ Fun fact: I am a novice photographer and a foodie !!!
 - 🤳 Connect with me: 
 <a href="https://github.com/pradipstha"> 
     <img align="left" alt="JoshMadakor | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
