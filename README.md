@@ -1,5 +1,5 @@
 <h1 align="center"> Namaste :pray: , I'm Pradip and I'm a self-taught data enthusiast </h1>
-<h3 align="center"> Geospatial and Sustainability Practitioner</h3>
+<h3 align="center"> Uncovering Impactful Insights Through Data-Driven Sustainability Solutions</h3>
 
 About me:
 - 💼 Academics: Geographical Information System and Remote Sensing of Earth and Environment
