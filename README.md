@@ -4,7 +4,7 @@
 **About me:
 - 💼 Geographical Information System, Remote Sensing of Earth and Environment, Hydrological modeling, Cartography
 - ❤️ Exploring data, generating patterns, clustering, and visual insight  
-- 🌱 I’m currently learning machine learning modules for image segmentation and integrating spatial analysis with programming  
+- 🌱 I’m currently learning machine learning modules for image segmentation and integrating spatial analysis for cloud computing   
 - ⚡ Fun fact: I am a novice photographer and a foodie !!!
 - 🤳 Connect with me: 
 <a href="https://github.com/pradipstha"> 
