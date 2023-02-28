@@ -1,8 +1,8 @@
-<h1 align="center"> Namaste, I'm Pradip and I'm a self-taught data scientist </h1>
+<h1 align="center"> Namaste :pray: , I'm Pradip and I'm a self-taught data enthusiast </h1>
 <h3 align="center"> Geospatial and Sustainability Practitioner</h3>
 
 About me:
-- 💼 Geographical Information System and Remote Sensing of Earth and Environment
+- 💼 Academics: Geographical Information System and Remote Sensing of Earth and Environment
 - ❤️ I love exploring data, learning patterns and visualizing results 
 - 🌱 I’m currently learning machine learning modules for image segmentation and integrating spatial analysis with programming  
 - ⚡ Fun fact: I am a novice photographer and a foodie !!!
