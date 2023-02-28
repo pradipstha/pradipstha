@@ -4,7 +4,7 @@
 About me:
 - 💼 Geographical Information System and Remote Sensing of Earth and Environment
 - ❤️ I love exploring data, learning patterns and visualizing results 
-- 🌱 I’m currently learning machine learning modeules for image segmentation and classification 
+- 🌱 I’m currently learning machine learning modules for image segmentation and integrating spatial analysis with programming  
 - ⚡ Fun fact: I am a novice photographer and a foodie !!!
 - 🤳 Connect with me: 
 <a href="https://github.com/pradipstha"> 
