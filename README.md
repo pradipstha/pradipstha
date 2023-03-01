@@ -5,7 +5,6 @@
 - 💼 Geographical Information System, Remote Sensing of Earth and Environment, Hydrological modeling, Cartography
 - ❤️ Exploring data, generating patterns, clustering, and visual insight  
 - 🌱 I’m currently learning machine learning modules for image segmentation and integrating spatial analysis for cloud computing   
-- ⚡ Fun fact: I am a novice photographer and a foodie !!!
 - 🤳 Connect with me: 
 <a href="https://github.com/pradipstha"> 
     <img align="left" alt="JoshMadakor | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
