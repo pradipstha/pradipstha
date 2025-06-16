@@ -1,5 +1,5 @@
 <h1 align="center"> Namaste :pray: , This is Pradip, a geospatial data analyst and a lifelong learner </h1>
-<h3 align="center"> Uncovering Impactful Insights Through Data-Driven Sustainability Solutions</h3>
+<h3 align="center"> Uncovering Insights Through Data-Driven Solutions</h3>
 
 **About me:
 - 💼 Geographical Information System, Remote Sensing of Earth and Environment, Hydrological modeling, Cartography
