@@ -2,7 +2,7 @@
 <h3 align="center"> Uncovering Insights Through Data-Driven Solutions</h3>
 
 **About me:
-- 💼 Geographical Information System, Remote Sensing of Earth and Environment, Hydrological modeling, Cartography
+- 💼 Geographical Information System, Remote Sensing, Environmental modeling, Cartography
 - ❤️ Exploring data, generating patterns, clustering, and visual insight  
 - 🌱 I’m currently learning digital twins, Geo AI and cloud computing   
 - 🤳 Connect with me: 
