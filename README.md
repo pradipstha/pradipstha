@@ -1,7 +1,7 @@
 <h1 align="center"> Namaste :pray: , This is Pradip, a geospatial data analyst and a lifelong learner </h1>
 <h3 align="center"> Uncovering Insights Through Data-Driven Solutions</h3>
 
-**About me:
+About:
 - 💼 GIS Professional | Remote Sensing | Spatial Analytics | Cartographic Design
 - ❤️ Transforming complex spatial data into actionable insights through statistical modeling and visualization   
 - 🌱 Advancing skills in Digital Twin technology, GeoAI workflows, cloud computing (GEE), and Geo AI  
