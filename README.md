@@ -2,9 +2,9 @@
 <h3 align="center"> Uncovering Insights Through Data-Driven Solutions</h3>
 
 **About me:
-- 💼 Geographical Information System, Remote Sensing, Environmental modeling, Cartography
-- ❤️ Exploring data, generating patterns, clustering, and visual insight  
-- 🌱 I’m currently learning digital twins, Geo AI and cloud computing   
+- 💼 GIS Professional | Remote Sensing | Spatial Analytics | Cartographic Design
+- ❤️ Transforming complex spatial data into actionable insights through statistical modeling and visualization   
+- 🌱 Advancing skills in Digital Twin technology, GeoAI workflows, cloud computing (GEE), and Geo AI  
 - 🤳 Connect with me: 
 <a href="https://github.com/pradipstha"> 
     <img align="left" alt="JoshMadakor | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
