@@ -2,7 +2,7 @@
 <h3 align="center"> Uncovering Insights Through Data-Driven Solutions</h3>
 
 About:
-- 💼 GIS Professional | Remote Sensing | Spatial Analytics | Cartographic Design
+- 💼 GIS Professional | Remote Sensing | Spatial Analytics
 - ❤️ Transforming complex spatial data into actionable insights through statistical modeling and visualization   
 - 🌱 Advancing skills in Digital Twin technology, GeoAI workflows, cloud computing (GEE), and Geo AI  
 - 🤳 Connect with me: 
