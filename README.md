@@ -1,4 +1,4 @@
-<h1 align="center"> Namaste :pray: , I'm Pradip - Geospatial Analyst and a Lifelong Learner </h1>
+<h1 align="center"> Namaste :pray: , I'm Pradip - Geospatial Lifelong Learner </h1>
 <h3 align="center"> Uncovering Insights Through Data-Driven Solutions</h3>
 
 About:
